@@ -1,4 +1,4 @@
-richter
+Codecademy API
 ============
 
 ## Development
